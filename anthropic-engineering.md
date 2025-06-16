@@ -1,5 +1,5 @@
 
-building a multi-agent research system
+# building a multi-agent research system
 
 
 A multi-agent system consists of multiple agents (LLMs autonomously using tools in a loop) working together.
