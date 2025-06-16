@@ -1,0 +1,11 @@
+#principles for context engineering
+
+1. If you’re an agent-builder, ensure your agent’s every action is informed by the context of all relevant decisions made by other parts of the system
+- Ideally, every action would just see everything else.
+
+A. Unfortunately, this is not always possible due to 
+- limited context windows and 
+- practical tradeoffs, and 
+- you may need to decide what level of complexity you are willing to take on for the level of reliability you aim for.
+
+
